@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mastewal degu
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently learning computer engineeirng at Addis Ababa Science And Technology University
-- 💞️ I’m looking to collaborate  with anyone who want to develop website using mern stach technology
 - 📫 How to reach me mastewaldegu0@gmail.com
 
 <!---
